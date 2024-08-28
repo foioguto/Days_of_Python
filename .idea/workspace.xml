@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7177a-dba2-4402-b507-c316f3cd17d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Days_1-19" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1-19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_1-19/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1-19/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_1-19/.idea/python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1_or_more" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1_or_more/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more/.idea/python.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +24,12 @@
     &quot;assignee&quot;: &quot;foioguto&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/foioguto/python_projects.git&quot;,
-    &quot;accountId&quot;: &quot;216dccb4-bb68-4e2e-b19a-2cb70ba089a5&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/foioguto/Days_of_Python.git",
+    "accountId": "216dccb4-bb68-4e2e-b19a-2cb70ba089a5"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
