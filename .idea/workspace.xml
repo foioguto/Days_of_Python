@@ -5,70 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7177a-dba2-4402-b507-c316f3cd17d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_20-21/snake_game/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_20-21/snake_game/food.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_20-21/snake_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_20-21/snake_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_20-21/snake_game/snake.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_22/pong_game/ball.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_22/pong_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_22/pong_game/paddles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_22/pong_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_23/road_cross_game/cars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_23/road_cross_game/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_23/road_cross_game/player.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_23/road_cross_game/scoreboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Aang.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Appa.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Katara.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Momo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Sokka.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Toph.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Uncle Iroh.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/ReadyToSend/letter_for_Zuko.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/Output/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/files_management/files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/files_management/my_file.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/mail_merge/Letters/starting_letter.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_24/mail_merge/Names/invited_names.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_25/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_25/Untitled.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_25/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Days_1-19/Days_20-39/day_25/weather_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_1-19" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1-19" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_1-19/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1-19/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_1-19/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_20-21/snake_game/data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_20-21/snake_game/food.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_20-21/snake_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_20-21/snake_game/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_20-21/snake_game/snake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_22/pong_game/ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_22/pong_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_22/pong_game/paddles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_22/pong_game/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_23/road_cross_game/cars.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_23/road_cross_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_23/road_cross_game/player.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_23/road_cross_game/scoreboard.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Aang.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Appa.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Katara.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Momo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Sokka.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Toph.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Uncle Iroh.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/ReadyToSend/letter_for_Zuko.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/Output/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/files_management/files.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/files_management/my_file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/mail_merge/Letters/starting_letter.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_24/mail_merge/Names/invited_names.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_25/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_25/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_25/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Days_20-39/day_25/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1_or_more" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Days_1_or_more/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Days_1_or_more/.idea/python.iml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +15,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Days_1-19" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
