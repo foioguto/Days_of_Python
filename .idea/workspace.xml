@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7177a-dba2-4402-b507-c316f3cd17d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/day_25/pandas_basics/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_20-21/snake_game/data.txt" beforeDir="false" afterPath="$PROJECT_DIR$/day_20-21/snake_game/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_23/road_cross_game/cars.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_23/road_cross_game/cars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_25/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/first_time_jupyter/.ipynb_checkpoints/Untitled-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_25/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/first_time_jupyter/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_25/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_25/weather_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/pandas_basics/weather_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_25/U.S_states_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/U.S_states_game/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day_5_or_less/bill_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_5_or_less/bill_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

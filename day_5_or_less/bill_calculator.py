@@ -5,7 +5,7 @@ print("+-----------------------------------------+")
 bill = float(input("What was the total bill?\nIt was: $"))
 tip = int(input("What the percentage would you like to give? 10, 12 or 15?\n"))
 
-percentage_tip = tip /100 
+percentage_tip = tip / 100
 
 people = int(input("how many people to split the bill?\n"))
 
