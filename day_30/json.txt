@@ -1,0 +1,5 @@
+https://docs.python.org/3/library/json.html
+
+- How to -
+    write, read, update, respectively:
+        json,dump(), json.load(), json.update()

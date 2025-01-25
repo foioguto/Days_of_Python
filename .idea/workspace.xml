@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffb7177a-dba2-4402-b507-c316f3cd17d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_27/documentation/Other_Tkinter_Widgets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_27/miles_to_kilometers/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/a_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/json.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/password_manager/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/password_manager/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/password_manager/poetry.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/password_manager/pyproject.toml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_30/try_except.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_41/HTML Heading_element/2.1 Heading Element/Heading.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_41/HTML Heading_element/2.1 Heading Element/goal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day_41/favorite_movies/htmlAsAmain?.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Days_of_Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Days_of_Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_25/U.S_states_game/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_25/U.S_states_game/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day_5_or_less/bill_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/day_5_or_less/bill_calculator.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,37 +53,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.blackjack_main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.cars.executor&quot;: &quot;Run&quot;,
-    &quot;Python.coiso.executor&quot;: &quot;Run&quot;,
-    &quot;Python.files.executor&quot;: &quot;Run&quot;,
-    &quot;Python.food.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.random_walk.executor&quot;: &quot;Run&quot;,
-    &quot;Python.scoreboard.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.turtle_race.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/forte/Documents/Days_of_Python&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Other_Tkinter_Widgets.executor": "Run",
+    "Python.api.executor": "Run",
+    "Python.blackjack_main.executor": "Run",
+    "Python.cars.executor": "Run",
+    "Python.coiso.executor": "Run",
+    "Python.files.executor": "Run",
+    "Python.food.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.random_walk.executor": "Run",
+    "Python.scoreboard.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.try_except.executor": "Run",
+    "Python.turtle_race.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/home/augusto/PycharmProjects/Days_of_Python",
+    "settings.editor.selected.configurable": "advanced.settings"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/day_32/SMTP" />
+      <recent name="$PROJECT_DIR$/day_27/documentation" />
+      <recent name="$PROJECT_DIR$/day_27" />
       <recent name="C:\Users\forte\Documents\Days_of_Python\day_25\first_time_jupyter" />
       <recent name="C:\Users\forte\Documents\Days_of_Python\day_25\pandas_basics" />
-      <recent name="C:\Users\forte\Documents\Days_of_Python\Days_1-19" />
-      <recent name="C:\Users\forte\Documents\Days_of_Python\Days_20-39\day_24\mail_merge\Names" />
     </key>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-884f5ed5d46b-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.22855.92" />
       </set>
     </attachedChunks>
   </component>
